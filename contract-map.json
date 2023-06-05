@@ -4401,5 +4401,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
-  }
-}
+  },
+  "0xa57a83A9718b58eD8d45F9511d491327d2Fd5ACf":{
+    "name": "baccaraCoin",
+    "logo": "Uqm9sVj6_400x400.jpg",
+    "erc20": true,
+    "symbol": "BCR",
+    "decimals": 18
+   },
+  } 
